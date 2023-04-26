@@ -19,3 +19,5 @@ Note: Commit code in public Github with instructions to run the code and share t
 ##
 
 docker-compose up --build 
+
+git config user.email.com
